@@ -12,3 +12,6 @@ Fork is getting a copy of a repository on GitHub which is now assigned to my acc
 Clone is getting the copy of the repository from github or from a repository on my local machine  to my local machine
 
 branches is creating a safe path for experimentation kepping my main trunk untouched
+
+
+I would collaborate using a tortise SVN
