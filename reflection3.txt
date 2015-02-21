@@ -3,3 +3,12 @@ I have created an account in GitHub, time to test the remote git operation
 or it would be better to say " HELLO GITHUB !!"
 
 I would want the pull to be manual so that conflicts do not arise
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+
+Fork is getting a copy of a repository on GitHub which is now assigned to my account on the cloud
+
+Clone is getting the copy of the repository from github or from a repository on my local machine  to my local machine
+
+branches is creating a safe path for experimentation kepping my main trunk untouched
