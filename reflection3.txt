@@ -1,3 +1,5 @@
 I have created an account in GitHub, time to test the remote git operation
 
 or it would be better to say " HELLO GITHUB !!"
+
+I would want the pull to be manual so that conflicts do not arise
